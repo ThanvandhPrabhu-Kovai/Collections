@@ -1,0 +1,16 @@
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\Collections.exe
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\Collections.deps.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\Collections.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\ref\Collections.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\bin\Debug\net5.0\Collections.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\ref\Collections.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
